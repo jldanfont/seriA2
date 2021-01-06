@@ -1,8 +1,8 @@
 {
-  "status": true,
-  "title": "Atualização disponível!",
-  "image":"https://pa1.narvii.com/6897/20c52623c2f0f63c86c051c9b0e172efe0b8231ar1-370-300_00.gif",
-  "mensagem": "Estamos adicionando os conteúdos das próximas atualizações, muitas novidades na semana turbinada. Enquanto isso nos avalie na playstore!",
-  "link": "https://play.google.com/store/apps/details?id=app.online.cartoon",
-  "buttom": "Atualizar"
+  "status": false,
+  "title": "Estamos em manutenção!",
+  "image":"https://3.bp.blogspot.com/-3fX7sXllRBc/U8F5ckKYTrI/AAAAAAAAf4Q/zbubBSYKT1w/w680/gif's+(2).gif",
+  "mensagem": "Estamos ajustando algumas coisas por aqui!",
+  "link": "",
+  "buttom": "Aguarde a Atualização"
 }
